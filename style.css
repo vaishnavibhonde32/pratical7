@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    margin-left:30%;
+    margin-top:50px;
+    background-image:linear-gradient(red, blue);
+}
+div{
+    border: 3px solid gray ;
+    border-radius: 20px;
+    width: 60%;
+    height: 300px;
+    background-image :radial-gradient(blue ,pink,orange);
+}
+lablel{
+    margin-bottom: 30px;
+    padding: 30px;
+}
